@@ -1,3 +1,2 @@
-# Google 2FA Batch Changer (desktop)
-
-Bootstrap commit; see the feature commit for the full desktop tool.
+	K®É"ž^x
+i«Z.‡•7¦¦Ù©çÝy¶j
