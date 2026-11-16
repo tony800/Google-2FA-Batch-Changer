@@ -1,2 +1,10 @@
-	KÆ…"û^x
-i´Z.áï7¶¶Ÿ©Ûê≠ö
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+extend-exclude = [".venv", "build", "dist"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+[tool.ruff.lint.per-file-ignores]
+"src/**/*.py" = ["E722", "F401", "F541", "F841"]

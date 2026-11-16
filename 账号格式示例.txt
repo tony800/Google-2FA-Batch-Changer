@@ -1,2 +1,3 @@
-	K��"�^x
-i�Z.��7��٩�w�j
+# 仅为格式示例，不是真实账号；请替换后另存为自己的账号文件。
+# 邮箱----密码----辅助邮箱----旧2FA密钥
+example@example.test----ReplaceWithYourPassword----backup@example.test----JBSWY3DPEHPK3PXP

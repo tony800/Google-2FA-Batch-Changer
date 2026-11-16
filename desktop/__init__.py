@@ -1,2 +1,1 @@
-	K®É"ž^x
-i«Z.‡•7¦¦Ù©÷^4¶j
+"""Windows desktop application for authorized Google 2FA rotation."""

@@ -1,2 +1,3 @@
-	K®É"ž^x
-i«Z.‡•7¦¦Ù©×­½¶j
+-r requirements-desktop.txt
+pyinstaller==6.22.3
+ruff==0.17.5

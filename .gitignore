@@ -1,2 +1,30 @@
-	K��"�^x
-i�Z.��7��٩�D�j
+# 运行时生成的数据（含敏感信息）
+data/
+2fa_results.txt
+accounts_new_2fa.txt
+
+# 不要上传真实账号文件（仓库里只保留示例）
+# accounts.txt 里请只放示例数据
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Local desktop environment and generated distribution
+.venv/
+.ruff_cache/
+build/
+dist/
+*.spec
+*-smoke.json
+verification/
+*.bin
